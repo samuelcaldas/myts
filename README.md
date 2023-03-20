@@ -68,7 +68,3 @@ The regular font is GNU unifont (with characters of width 16 removed) and the bo
 ## License
 
 This program is licensed under GNU General Public License v3.0. See `LICENSE` file for more information.
-
-Origem: conversa com o Bing, 19/03/2023(1) Getting started with writing and formatting on GitHub. https://docs.github.com/articles/markdown-basics Acessado 19/03/2023.
-(2) Basic writing and formatting syntax - GitHub Docs. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax Acessado 19/03/2023.
-(3) About READMEs - GitHub Docs. https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes Acessado 19/03/2023.
